@@ -1,0 +1,18 @@
+services:
+  - type: web
+    name: boot-yc96
+    runtime: static
+    staticPublishPath: ./i/
+    headers:
+      - path: /assets.json
+        name: Access-Control-Allow-Origin
+        value: "*"
+      - path: /assets.json
+        name: Access-Control-Allow-Methods
+        value: "GET, HEAD, OPTIONS"
+      - path: /assets.json
+        name: Access-Control-Allow-Headers
+        value: "Accept, Content-Type"
+      - path: /assets.json
+        name: Cache-Control
+        value: "no-store"
