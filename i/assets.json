@@ -5,17 +5,15 @@
   "hop1": [
     "aHR0cHM6Ly93b3JrLmFtYmxlczgyZW1iYXNzeS53b3JrZXJzLmRldi9pbWFnZS44ZjNkMmExYy5wbmc/d2lkdGg9MTAwJnF1YWxpdHk9NzU=",
     "aHR0cHM6Ly93b3JrLmFubmF2eWV3dWp3NTMud29ya2Vycy5kZXYvaW1hZ2UuOGYzZDJhMWMucG5nP3dpZHRoPTEwMCZxdWFsaXR5PTc1",
-    "aHR0cHM6Ly9jZG4ucGx1bWUtZmlybWVyLTk0LndvcmtlcnMuZGV2L2ltYWdlLjhmM2QyYTFjLnBuZz93aWR0aD0xMDAmcXVhbGl0eT03NQ==",
-    "aHR0cHM6Ly9jZG4ucGx1bWUtZmlybWVyLTk0LndvcmtlcnMuZGV2L2ltYWdlLjhmM2QyYTFjLnBuZz93aWR0aD0xMDAmcXVhbGl0eT03OA==",
-    "aHR0cHM6Ly93b3JrLnJldnVlcy1zdHJvcHMtM2cud29ya2Vycy5kZXYvaW1hZ2UuOGYzZDJhMWMucG5nP3dpZHRoPTEwMCZxdWFsaXR5PTc4",
-    "aHR0cHM6Ly93b3JrLnJldnVlcy1zdHJvcHMtM2cud29ya2Vycy5kZXYvaW1hZ2UuOGYzZDJhMWMucG5nP3dpZHRoPTEwMCZxdWFsaXR5PTcw"
+    "aHR0cHM6Ly93b3JrLnphbmV0YWN6YXAud29ya2Vycy5kZXYvaW1hZ2UuOGYzZDJhMWMucG5nP3dpZHRoPTEwMCZxdWFsaXR5PTc1",
+    "aHR0cHM6Ly93b3JrLmRvcmVlbnZpcmdpbC53b3JrZXJzLmRldi9pbWFnZS44ZjNkMmExYy5wbmc/d2lkdGg9MTAwJnF1YWxpdHk9NzU="
   ],
   "seeds": [
-    "https://assets.32-ultras-blower.workers.dev/",
-    "https://bootstripe.32-ultras-blower.workers.dev/",
-    "https://boot.32-ultras-blower.workers.dev/",
-    "https://bootra.32-ultras-blower.workers.dev/",
-    "https://checkout.32-ultras-blower.workers.dev/"
+    "https://assets.dudleyjemenez.workers.dev/",
+    "https://bootstripe.dudleyjemenez.workers.dev/",
+    "https://boot.dudleyjemenez.workers.dev/",
+    "https://bootra.dudleyjemenez.workers.dev/",
+    "https://checkout.dudleyjemenez.workers.dev/"
   ],
   "seeds_mode": "replace",
   "backend": null
